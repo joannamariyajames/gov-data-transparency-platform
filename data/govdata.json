@@ -1,0 +1,23 @@
+[
+  {
+    "scheme": "PM Awas Yojana",
+    "budget": 48000,
+    "beneficiaries": 1200000
+  },
+  {
+    "scheme": "Ayushman Bharat",
+    "budget": 64000,
+    "beneficiaries": 2200000
+  },
+  {
+    "scheme": "Digital India",
+    "budget": 30000,
+    "beneficiaries": 900000
+  },
+  {
+    "scheme": "Skill India",
+    "budget": 25000,
+    "beneficiaries": 700000
+  }
+]
+
